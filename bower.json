@@ -1,0 +1,14 @@
+{
+  "name": "task",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore-amd": "latest",
+    "requirejs": "latest",
+    "qunit": "latest",
+    "buildable": "simonfan/buildable",
+    "fsm": "simonfan/fsm",
+    "_.mixins": "simonfan/_.mixins",
+    "json2": "latest"
+  },
+  "main": "task.js"
+}
